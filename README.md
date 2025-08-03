@@ -81,7 +81,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/GenZStoryApp.git
+git clone https://github.com/Gnalini1/GenZStoryApp.git
 Open in Android Studio
 
 Build and run on an emulator or physical device (API 21+ recommended)
