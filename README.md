@@ -31,6 +31,7 @@ ________________________________________________________________________________
 This screen shows the Text-to-Speech engine reading the story aloud.
 
 ![Voice Feature](stories1.png)
+
 Framework: Android SDK (Android Studio)
 
 
@@ -39,6 +40,7 @@ Framework: Android SDK (Android Studio)
 This screen shows the Text-to-Speech engine reading the story aloud.
 
 ![Voice Feature](stories2.png)
+
 Framework: Android SDK (Android Studio)
 
 ### UI: XML Layouts
